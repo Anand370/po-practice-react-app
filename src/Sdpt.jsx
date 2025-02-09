@@ -3,7 +3,7 @@ import React from 'react'
 function Sdpt() {
   return (
     <>
-     <div>Sdpt</div>
+     <div>udpt</div>
      <p>Welcome to sdpt</p>
     </>
    
