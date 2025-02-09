@@ -4,7 +4,7 @@ function Sdpt() {
   return (
     <>
      <div>udpt</div>
-     <p>Welcome to sdpt</p>
+     <p>Welcome to </p>
     </>
    
     
