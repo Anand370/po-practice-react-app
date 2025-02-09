@@ -11,6 +11,8 @@ function Sdpt() {
      <p>jdfmnbdm </p>
        <p>Welcome to </p>
      <p>Welcome to </p>
+      <h1>sdyggg</h1>
+      <h2>hhiudsz</h2>
      <p>hi</p>
     </>
    
