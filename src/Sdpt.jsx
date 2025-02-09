@@ -10,7 +10,7 @@ function Sdpt() {
      <div>pukash</div>
      <div>udpt</div>
       <div>Neckname</div>
-      <div>benner</div>
+      <div>pk</div>
      <p>Welcome to </p>
      <p>l</p>
      <p>jdfmnbdm </p>
